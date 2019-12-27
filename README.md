@@ -1,0 +1,2 @@
+# Cab-Fare-Prediction
+Wehavebeengivenadatasettopredictthecabrentalfareamountforthetripsintest dataset.WehaveachievedthisthroughvariuosExploratoryDataAnalysistechniquesandusing varioudmodelinordertogetthebestfittedmodel. 
